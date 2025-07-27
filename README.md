@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 مرحبًا! أنا وداع العثمان
 
-<!--
-**wadaa-dev/wadaa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 مطورة مهتمة ببناء تطبيقات ويب عملية وتفاعلية باستخدام تقنيات حديثة .
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 مشاريعي المميزة:
+
+- 📍 [تطبيق تتبع الأطفال باستخدام GPS](https://github.com/wadaa-dev/GPS)  
+  تطبيق يعرض موقع الطفل مباشرة على خريطة مع ارسال اشعارات.
+
+---
+
+## 💡 المهارات التقنية:
+
+- **Frontend:** HTML, CSS, JavaScript
+- **الخريطة:** Leaflet.js
+- **Backend:** Node.js / Express
+- **Database:** MySQL
+- **أنظمة المواقع:** GPS API
+
+---
+
+## 📫 للتواصل معي:
+
+- 📧 wadaalthman3@gmail.com
+- 🌐 [صفحتي على GitHub](https://github.com/wadaa-dev)
